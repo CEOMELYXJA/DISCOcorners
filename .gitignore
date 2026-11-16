@@ -1,0 +1,21 @@
+# .NET Core / .NET 5+
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio temporary files
+.vs/
+
+# Output of dotnet publish
+publish/
+artifacts/
+
+# Log files
+*.log
+
+# Local agent workspace
+.claude/
